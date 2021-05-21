@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo":"O conta da aia",
+        "descricao":"O governo dos EUA é tomado por um grupo totalitarista cristão",
+        "autor": "Margaret Atwood",
+        "anoPublicacao": 1985
+    },
+    {
+        "id":2,
+        "titulo":"Os testamentos",
+        "descricao":"Continuação de O conto da Aia",
+        "autor":"Margaret Atwood",
+        "anoPublicacao": "2019"
+    },
+    {
+        "id":3,
+        "titulo": "A garota no trem",
+        "descricao": "Rachel, uma alcoólatra desempregada e deprimida, sofre pelo seu divórcio recente.",
+        "autor":"Paula Hawkins",
+        "anoPublicacao": 2015
+    }
+]
