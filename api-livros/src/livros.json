@@ -19,5 +19,12 @@
         "descricao": "Rachel, uma alcoólatra desempregada e deprimida, sofre pelo seu divórcio recente.",
         "autor":"Paula Hawkins",
         "anoPublicacao": 2015
+    },
+    {
+        "id":4,
+        "titulo": "Laranja Mecânica",
+        "descricao": "O céu sobre o porto tinha cor de televisão num canal fora do ar...",
+        "autor":"William Gibson",
+        "anoPublicacao": 1984
     }
 ]
